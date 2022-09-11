@@ -1,0 +1,2 @@
+class RavoritesController < ApplicationController
+end
